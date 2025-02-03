@@ -7,7 +7,8 @@ Welcome to my GitHub repository! I am a Master’s student specializing in Mecha
 
 - **Name:** Himavanth Sakshi
 - **LinkedIn:** https://www.linkedin.com/in/himavanth-akhil-sai-sakshi-989a88194/ 
-- **Program:** Master of Science in Mechatronics and Robotics
+- **Masters:** Master of Science in Mechatronics and Robotics at Oklahoma State University, Oklahoma, USA
+- **UnderGrad:** B.Tech in Mechanical Engineering at National Institute of Technology, Srinagar, India
 
 ## Skills
 
@@ -30,11 +31,7 @@ Welcome to my GitHub repository! I am a Master’s student specializing in Mecha
 - **Technologies:** SolidWorks, MATLAB, Arduino
 - **Link to Project:** 
 
-## Research
-
-### [Research Title]
-- **Abstract:** Brief summary of your research.
-- **Link to Research Paper:** [Research Paper](link-to-paper)
+## Research(yet to be published)
 
 ## Certifications
 
