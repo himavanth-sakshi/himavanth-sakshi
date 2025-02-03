@@ -1,7 +1,7 @@
 # Himavanth's Portfolio
 I apologise for the unfinished portfolio. I am updating it and will be finished soon. Feel free to visit again in few days. Thank you!
 
-Welcome to my GitHub repository! I am a Master’s student specializing in Mechatronics and Robotics, and I am currently seeking internship opportunities in this exciting field. This repository showcases my projects, skills, and achievements in Mechatronics and Robotics.
+Welcome to my GitHub repository! I am a Master’s student specializing in Mechatronics and Robotics, and I am currently seeking Full-Time opportunities in this exciting field. This repository showcases my projects, skills, and achievements in Mechatronics and Robotics.
 
 ## About Me
 
